@@ -1,4 +1,4 @@
-token_bot = '6193368597:AAE44PbazZygLQNff0IzgbUj-ioxWWOCpbM'
+token_bot = ''
 
 counter_response = 0
 
